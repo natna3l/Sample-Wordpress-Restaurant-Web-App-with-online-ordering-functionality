@@ -1,0 +1,376 @@
+# Translation of Plugins - Restaurant Menu &#8211; Food Ordering System &#8211; Table Reservation - Stable (latest release) in Italian
+# This file is distributed under the same license as the Plugins - Restaurant Menu &#8211; Food Ordering System &#8211; Table Reservation - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-08 13:38:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - Restaurant Menu &#8211; Food Ordering System &#8211; Table Reservation - Stable (latest release)\n"
+
+#: includes/class-glf-widget.php:81
+#: includes/modules/widgets/class-glf-mor-widget.php:82
+msgid "Restaurant"
+msgstr "Ristorante"
+
+#: includes/class-glf-widget.php:92
+#: includes/modules/widgets/class-glf-mor-widget.php:92
+msgid "See MENU & Order"
+msgstr "Guarda MENU & Ordina"
+
+#: includes/extras.php:11 includes/admin/pages/extras/extras.php:13
+msgid "Explore all the capabilities of this powerful<br> ordering system"
+msgstr "Esplora tutte le capacità di questo potente <br> sistema di ordinazione"
+
+#: includes/extras.php:25 includes/admin/pages/extras/extras.php:27
+msgid "Reports about orders and clients in various presentation forms: charts, tables and even csv exports."
+msgstr "Rapporti su ordini e clienti in vari formati di presentazione: grafici, tabelle e anche esportazione csv."
+
+#: includes/extras.php:33 includes/admin/pages/extras/extras.php:35
+msgid "Set up Google Tag Manager in the ordering widget and you’re in full control over the conversion tracking & analytics codes you use."
+msgstr "Imposta Google Tag Manager nel widget ordinazioni ed avrai il controllo completo sul tracciamento delle conversioni & sui codici analitici che usi."
+
+#: includes/extras.php:34 includes/admin/pages/extras/extras.php:36
+msgid "Set up tracking"
+msgstr "Imposta tracciamento"
+
+#: includes/extras.php:42 includes/extras.php:50 includes/extras.php:68
+#: includes/admin/pages/extras/extras.php:44
+#: includes/admin/pages/extras/extras.php:52
+#: includes/admin/pages/extras/extras.php:70
+msgid "Premium"
+msgstr "Premium"
+
+#: includes/extras.php:51 includes/admin/pages/extras/extras.php:53
+msgid "You can set up almost any promotion logic you can think of (from simple discounts to meal bundles), and trigger them to different customer segments."
+msgstr "Puoi impostare quasi ogni logica di promozione che ti viene in mente (dai semplici sconti ai pacchetti pasto), e attivarli per diversi segmenti di clientela."
+
+#: includes/extras.php:60 includes/admin/pages/extras/extras.php:62
+msgid "Facebook Ordering"
+msgstr "Ordinazione Facebook"
+
+#: includes/extras.php:61 includes/admin/pages/extras/extras.php:63
+msgid "This free app adds the ordering button to the restaurant Facebook page, so that people can see the menu and order directly from Facebook."
+msgstr "Questa app gratuita aggiunge il pulsante di ordinazione alla pagina Facebook del ristorante, in modo che le persone possono vedere i menu ed ordinare direttamente da Facebook."
+
+#: includes/extras.php:62 includes/admin/pages/extras/extras.php:64
+msgid "Install the App"
+msgstr "Installa la App"
+
+#: includes/extras.php:68 includes/admin/pages/extras/extras.php:70
+msgid "Branded Mobile Apps"
+msgstr "App Mobile Brandizzate"
+
+#: includes/extras.php:69 includes/admin/pages/extras/extras.php:71
+msgid "Create branded mobile apps for Android and iOS without writing a line of code. Custom logo, slogan and background image."
+msgstr "Crea app mobile brandizzate per Android e iOS senza scrivere una singola linea di codice. Logo, slogan e immagini di sfondo personalizzati."
+
+#: includes/admin/pages/partner/partner.php:13 includes/partner.php:11
+msgid "Partner Program"
+msgstr "Programma Partner"
+
+#: includes/admin/pages/partner/partner.php:14 includes/partner.php:12
+msgid "All the benefits of running a small business that turns your services into profits"
+msgstr "Tutti i benefici di gestire una piccola attività commerciale che trasforma i tuoi servizi in profitti"
+
+#: includes/admin/pages/partner/partner.php:14 includes/partner.php:12
+msgid "Become a Partner"
+msgstr "Diventa un Partner"
+
+#: includes/admin/pages/partner/partner.php:21 includes/partner.php:19
+msgid "Earn money with us"
+msgstr "Guadagna denaro con noi"
+
+#: includes/admin/pages/partner/partner.php:22 includes/partner.php:20
+msgid "Do you like our product and have other restaurant clients that could use our ordering system?"
+msgstr "Ti piace il nostro prodotto e hai altri clienti del settore ristorante che potrebbero usare il nostro sistema di ordinazione?"
+
+#: includes/admin/pages/partner/partner.php:23 includes/partner.php:21
+msgid "Enroll in our partner program and get your 20% monthly share from the paid subscriptions they activate."
+msgstr "Unisciti al nostro programma partner e ricevi la tua quota mensile del 20% dagli abbonamenti a pagamento da loro attivati."
+
+#: includes/admin/pages/partner/partner.php:31 includes/partner.php:29
+msgid "Your clients, your show"
+msgstr "I tuoi clienti, il tuo show"
+
+#: includes/admin/pages/partner/partner.php:32 includes/partner.php:30
+msgid "When it comes to your clients, we take a step back and let you shine."
+msgstr "Quando si tratta dei tuoi clienti, noi facciamo un passo indietro e permettiamo a te di essere la stella."
+
+#: includes/admin/pages/partner/partner.php:33 includes/partner.php:31
+msgid "The Partner Dashboard helps you easily manage the restaurants and also provides all sort of (de-branded) materials that you can use to sell your services."
+msgstr "Il Pannello di Controllo Partner ti permette di gestire facilmente i ristoranti e fornisce anche ogni sorta di materiale (non brandizzato) che puoi usare per vendere i tuoi servizi."
+
+#: includes/admin/pages/partner/partner.php:34 includes/partner.php:32
+msgid "In addition, for those clients you enable access to the platform, the experience is completely white labeled, our brand being replaced with your logo and imprint."
+msgstr "Inoltre, per quei clienti ai quali permetti di accedere alla piattaforma, l’esperienza è completamente ad etichetta bianca, il nostro brand viene sostituito dal tuo logo e dalle tue scritte."
+
+#: restaurant-system.php:198
+msgid "Add buttons to pages"
+msgstr "Aggiungi pulsanti alle pagine"
+
+#: restaurant-system.php:199
+msgid "Add buttons to the navigation"
+msgstr "Aggiungi pulsanti alla navigazione"
+
+#: restaurant-system.php:197
+msgid "Customize the buttons"
+msgstr "Personalizza i pulsanti"
+
+#: restaurant-system.php:222
+msgid "For more information:"
+msgstr "Per maggiori informazioni:"
+
+#: restaurant-system.php:223
+msgid "See the complete guide"
+msgstr "Guarda la guida completa"
+
+#: restaurant-system.php:200
+msgid "Add buttons to sidebar or footer"
+msgstr "Aggiungi pulsanti alla barra laterale o al footer"
+
+#: includes/extras.php:43 includes/admin/pages/extras/extras.php:45
+msgid "Connects the ordering system with the restaurant payment gateway. This way, the money go from the food client straight to the restaurant account."
+msgstr "Connette il sistema di ordinazione con il portale di pagamenti del ristorante. In questo modo, il denaro passa dal cliente direttamente sul conto del ristorante."
+
+#: includes/extras.php:50 includes/admin/pages/extras/extras.php:52
+msgid "Promotions and Coupons"
+msgstr "Promozioni e coupon"
+
+#: includes/extras.php:42 includes/admin/pages/extras/extras.php:44
+msgid "Online Payments"
+msgstr "Pagamenti online"
+
+#: includes/extras.php:44 includes/admin/pages/extras/extras.php:46
+msgid "Enable online payments"
+msgstr "Abilita pagamenti online"
+
+#: includes/class-glf-widget.php:103
+#: includes/modules/widgets/class-glf-mor-widget.php:103
+msgid "Use custom CSS class"
+msgstr "Usa classe CSS personalizzata"
+
+#: includes/class-glf-widget.php:97
+#: includes/modules/widgets/class-glf-mor-widget.php:97
+msgid "Table Reservations"
+msgstr "Prenotazione tavoli"
+
+#: includes/extras.php:26 includes/admin/pages/extras/extras.php:28
+msgid "Access the reports"
+msgstr "Accedi ai rapporti"
+
+#: includes/extras.php:32 includes/admin/pages/extras/extras.php:34
+msgid "3rd Party Tracking"
+msgstr "Tracciamento di terze parti"
+
+#: includes/extras.php:24 includes/admin/pages/extras/extras.php:26
+msgid "Ordering Reports"
+msgstr "Rapporti ordinazioni"
+
+#: includes/extras.php:12 includes/admin/pages/extras/extras.php:14
+msgid "Open the Full Admin Panel"
+msgstr "Apri il pannello completo di amministrazione"
+
+#: includes/class-glf-widget.php:19
+#: includes/modules/widgets/class-glf-mor-widget.php:19
+msgid "See MENU & Order  or Table Reservations"
+msgstr "Guarda MENU & Ordina o Prenotazione tavoli"
+
+#: includes/extras.php:24 includes/extras.php:32 includes/extras.php:60
+#: includes/admin/pages/extras/extras.php:26
+#: includes/admin/pages/extras/extras.php:34
+#: includes/admin/pages/extras/extras.php:62
+msgid "Free"
+msgstr "Gratuito"
+
+#: includes/admin.php:189 includes/admin/pages/admin/admin.php:180
+msgid "Fill in your restaurant basics and install the restaurant app for taking orders and reservations."
+msgstr "Inserisci le info di base del ristorante e installa la app ristorante per prendere ordini e prenotazioni."
+
+#: includes/admin.php:201 includes/admin/pages/admin/admin.php:192
+msgid "2. Insert the menu"
+msgstr "2. Inserisci il menu"
+
+#: includes/admin.php:202 includes/admin/pages/admin/admin.php:193
+msgid ""
+"Our editor makes any menu, however complex, easy to insert and use\n"
+"."
+msgstr "I nostri editor rendono qualsiasi menu, per quanto complesso, semplice da inserire ed usare."
+
+#: includes/admin.php:108 includes/admin/pages/options/options.php:28
+#: includes/admin/pages/admin/admin.php:117 includes/options.php:26
+msgid "Email"
+msgstr "Email"
+
+#: includes/admin.php:111 includes/admin/pages/admin/admin.php:120
+msgid "Password"
+msgstr "Password"
+
+#: includes/admin.php:114 includes/admin/pages/admin/admin.php:123
+msgid "Restaurant name"
+msgstr "Nome ristorante"
+
+#: includes/admin.php:117 includes/admin/pages/admin/admin.php:126
+msgid "First name"
+msgstr "Nome"
+
+#: includes/admin.php:120 includes/admin/pages/admin/admin.php:129
+msgid "Last name"
+msgstr "Cognome"
+
+#: includes/admin.php:180 includes/admin/pages/admin/admin.php:160
+msgid "Welcome to your restaurant dashboard"
+msgstr "Benvenuto nel tuo pannello di controllo ristorante"
+
+#: includes/admin.php:181 includes/admin/pages/admin/admin.php:161
+msgid "Let's get you started:"
+msgstr "Iniziamo:"
+
+#: includes/admin.php:188 includes/admin/pages/admin/admin.php:179
+msgid "1. Set up your restaurant profile"
+msgstr "1. Imposta il tuo profilo ristorante"
+
+#: includes/admin.php:192 includes/extras.php:70
+#: includes/admin/pages/admin/admin.php:183
+#: includes/admin/pages/extras/extras.php:72
+msgid "Get started"
+msgstr "Inizia"
+
+#: includes/admin.php:206 includes/admin/pages/admin/admin.php:197
+msgid "Insert the menu"
+msgstr "Inserisci il menu"
+
+#: includes/admin.php:219 includes/admin/pages/admin/admin.php:210
+msgid "Publish"
+msgstr "Pubblica"
+
+#: includes/admin.php:256 includes/admin/pages/admin/admin.php:246
+msgid "By signing up you agree to our"
+msgstr "Registrandoti accetti i nostri"
+
+#: includes/admin.php:289 includes/admin/pages/admin/admin.php:270
+msgid "Create a restaurant account"
+msgstr "Crea un account ristorante"
+
+#: includes/admin.php:289 includes/admin/pages/admin/admin.php:270
+msgid "I already have a restaurant account"
+msgstr "Ho già un account ristorante"
+
+#: includes/modules/classic-editor-mce/mce/media-button.php:40
+#: includes/media-button.php:46
+msgid "Table reservations"
+msgstr "Prenotazione tavoli"
+
+#: includes/modules/classic-editor-mce/mce/media-button.php:54
+#: includes/media-button.php:62
+msgid "Cancel"
+msgstr "Annulla"
+
+#: includes/modules/classic-editor-mce/mce/media-button.php:55
+#: includes/media-button.php:63
+msgid "Insert button code"
+msgstr "Inserisci codice pulsante"
+
+#: includes/admin/pages/options/options.php:14 includes/options.php:12
+msgid "Menu - Ordering - Reservations Settings"
+msgstr "Impostazioni Menu - Ordinazione - Prenotazioni"
+
+#: includes/admin/pages/options/options.php:32 includes/options.php:30
+msgid "Installation id"
+msgstr "ID installazione"
+
+#: includes/admin/pages/options/options.php:38 includes/options.php:36
+msgid "Are you sure you want to disconnect your account?"
+msgstr "Sei sicuro di voler disconnettere il tuo account?"
+
+#: includes/publishing.php:68 includes/admin/pages/publishing/publishing.php:64
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/publishing.php:75 includes/publishing.php:87
+#: includes/admin/pages/publishing/publishing.php:71
+#: includes/admin/pages/publishing/publishing.php:83
+msgid "Customize"
+msgstr "Personalizza"
+
+#: includes/publishing.php:79 includes/publishing.php:91
+#: includes/publishing.php:108
+#: includes/admin/pages/publishing/publishing.php:75
+#: includes/admin/pages/publishing/publishing.php:87
+#: includes/admin/pages/publishing/publishing.php:103
+msgid "Copy"
+msgstr "Copia"
+
+#. Plugin Name of the plugin
+#: includes/class-glf-widget.php:21
+#: includes/modules/widgets/class-glf-mor-widget.php:22
+msgid "Menu - Ordering - Reservations"
+msgstr "Menu - Ordinazione - Prenotazioni"
+
+#. Plugin URI of the plugin
+msgid "https://www.gloriafood.com/wordpress-restaurant-plugin"
+msgstr "https://www.gloriafood.com/wordpress-restaurant-plugin"
+
+#. Author of the plugin
+msgid "GloriaFood"
+msgstr "GloriaFood"
+
+#. Author URI of the plugin
+msgid "https://www.gloriafood.com/"
+msgstr "https://www.gloriafood.com/"
+
+#: includes/publishing.php:67 includes/admin/pages/publishing/publishing.php:63
+msgid "Button Preview"
+msgstr "Anteprima pulsante"
+
+#: includes/publishing.php:33 includes/admin/pages/publishing/publishing.php:40
+msgid "Publish on your website"
+msgstr "Pubblica sul tuo sito web"
+
+#: includes/admin/pages/options/options.php:48 includes/options.php:46
+msgid "Please connect a restaurant account to get started"
+msgstr "Connetti un account ristorante per iniziare"
+
+#: includes/admin/pages/options/options.php:46
+#: includes/admin/pages/options/options.php:49 includes/options.php:44
+#: includes/options.php:47
+msgid "Connect Account"
+msgstr "Connetti account"
+
+#: includes/admin/pages/options/options.php:24 includes/options.php:22
+msgid "If you disconnect your account, the <i>See Menu & Order</i> and <i>Table Reservation</i> buttons that are already published on your pages will remain as they are. However, you will not longer be able to make changes to your restaurant profile from within the WordPress interface."
+msgstr "Se disconnetti il tuo account, i pulsanti <i>Guarda Menu & Ordina</i> e <i>Prenotazione Tavolo</i> già pubblicati sulle pagine rimarranno come sono. Tuttavia, non potrai più apportare modifiche al tuo profilo ristorante dall’interno dell’interfaccia WordPress."
+
+#: includes/admin/pages/options/options.php:21
+#: includes/admin/pages/options/options.php:39 includes/options.php:19
+#: includes/options.php:37
+msgid "Disconnect Account"
+msgstr "Disconnetti account"
+
+#. Description of the plugin
+msgid "This plugin is all you need to turn your restaurant website into an online business. Using a simple and friendly interface you get a restaurant menu, online food ordering and restaurant booking system. All free, no fees, no hidden costs, no commissions - for unlimited food orders and restaurant reservations."
+msgstr "Il plugin è tutto quello che ti serve per trasformare il sito web del tuo ristorante in un business on-line. Utilizzando un’interfaccia semplice e comoda ottieni un menu ristorante, un sistema di prenotazione per ristorante e di ordinazione cibo on-line. Tutto gratis, senza tasse, senza costi nascosti, senza commissioni - per ordini di cibo e prenotazioni ristorante illimitati."
+
+#: includes/modules/classic-editor-mce/mce/media-button.php:27
+#: includes/media-button.php:31
+msgid "Restaurant menu and ordering"
+msgstr "Menu ristorante e ordinazioni"
+
+#: includes/admin.php:258 includes/admin/pages/admin/admin.php:248
+msgid "privacy policy"
+msgstr "privacy policy"
+
+#: includes/admin.php:257 includes/admin/pages/admin/admin.php:247
+msgid "terms"
+msgstr "termini"
+
+#: includes/admin.php:216 includes/admin/pages/admin/admin.php:207
+msgid "Get the shortcodes to publish the widgets on your pages."
+msgstr "Ottieni gli shortcode per pubblicare gli widget sulle tue pagine. "
+
+#: includes/admin.php:215 includes/admin/pages/admin/admin.php:206
+msgid "3. Publish on your website"
+msgstr "3. Pubblica sul tuo sito web"
