@@ -1,0 +1,30 @@
+<wpml-config>
+    <elementor-widgets>
+        <widget name="premium-addon-banner">
+            <fields>
+                <field type="Banner: Title" editor_type="LINE">premium_banner_title</field>
+                <field type="Banner: Description" editor_type="AREA">premium_banner_description</field>
+                <field type="Banner: Button Text" editor_type="LINE">premium_banner_more_text</field>
+                <field type="Banner: URL" editor_type="LINK" key_of="premium_banner_image_custom_link">url</field>
+                <field type="Banner: Button URL" editor_type="LINK" key_of="premium_banner_link">url</field>
+            </fields>
+        </widget>
+
+        <widget name="premium-addon-button">
+            <fields>
+                <field type="Button: Text" editor_type="LINE">premium_button_text</field>
+                <field type="Button: URL" editor_type="LINK" key_of="premium_button_link">url</field>
+            </fields>
+        </widget>
+
+        <widget name="premium-counter">
+            <fields>
+                <field type="Counter: Title Text" editor_type="LINE">premium_counter_title</field>
+                <field type="Counter: Thousands Separator" editor_type="LINE">premium_counter_t_separator</field>
+                <field type="Counter: Prefix" editor_type="LINE">premium_counter_preffix</field>
+                <field type="Counter: Suffix" editor_type="LINE">premium_counter_suffix</field>
+            </fields>
+        </widget>
+
+    </elementor-widgets>
+</wpml-config>

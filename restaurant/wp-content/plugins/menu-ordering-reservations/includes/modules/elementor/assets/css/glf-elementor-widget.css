@@ -1,0 +1,66 @@
+#elementor-panel-category-gloria-food .elementor-panel-category-title {
+    padding-left: 32px;
+}
+
+#elementor-panel-category-gloria-food .elementor-panel-category-title:after {
+    content: "";
+    /*background-image: url(../../../../../assets/icon.svg);*/
+    background-image: url(../../../../../assets/images/logo.png);
+    height: 100%;
+    display: block;
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 30px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    -webkit-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+    transform: none;
+}
+
+#elementor-panel-category-gloria-food .elementor-element .icon > i:before {
+    content: "";
+    height: 30px;
+    display: block;
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.elementor-element .icon .glf-elementor-ordering-widget-icon:before {
+    background-image: url(../../../../../includes/modules/elementor/assets/images/ordering-icon.svg);
+}
+
+.elementor-element .icon .glf-elementor-reservations-widget-icon:before {
+    background-image: url(../../../../../includes/modules/elementor/assets/images/reservations-icon.svg);
+}
+
+.elementor-element .icon .glf-elementor-food-menu-widget-icon:before {
+    background-image: url(../../../../../includes/modules/elementor/assets/images/food-menu-icon.svg);
+}
+@media (prefers-color-scheme: dark){
+    .elementor-element .icon .glf-elementor-ordering-widget-icon:before {
+        background-image: url(../../../../../includes/modules/elementor/assets/images/ordering-icon-dark.svg);
+    }
+
+    .elementor-element .icon .glf-elementor-reservations-widget-icon:before {
+        background-image: url(../../../../../includes/modules/elementor/assets/images/reservations-icon-dark.svg);
+    }
+
+    .elementor-element .icon .glf-elementor-food-menu-widget-icon:before {
+        background-image: url(../../../../../includes/modules/elementor/assets/images/food-menu-icon-dark.svg);
+    }
+}
+
+#elementor-panel-categories {
+    display: flex;
+    flex-direction: column;
+}
+
+#elementor-panel-category-gloria-food {
+    order: -1;
+}
